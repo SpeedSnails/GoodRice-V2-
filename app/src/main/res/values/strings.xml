@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">GoodRice(V2)</string>
+    <string name="app_name">呷好米(5.0)</string>
+    <string name="classroom">米食小教室</string>
+    <string name="history">歷史記錄</string>
+    <string name="setting">提示設定</string>
+    <string name="privacy">使用條款</string>
+    <string name="disclaimer">免責聲明</string>
+    <string name="copyright">版權宣告</string>
 </resources>
