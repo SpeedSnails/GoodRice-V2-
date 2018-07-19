@@ -1,10 +1,21 @@
 <resources>
     <string name="app_name">呷好米(5.0)</string>
-    <string name="logo">LOGO</string>
+    <string name="image">image</string>
     <string name="classroom">米食小教室</string>
     <string name="history">歷史記錄</string>
     <string name="setting">提示設定</string>
     <string name="privacy">使用條款</string>
     <string name="disclaimer">免責聲明</string>
     <string name="copyright">版權宣告</string>
+    <string name="btnHistory">歷史記錄</string>
+    <string name="btnScan">掃描輸入</string>
+    <string name="btnKey">手動輸入</string>
+    <string name="tvMain">將鏡頭對準條碼進行掃描</string>
+    <string name="tvHistory1">近期掃描歷史紀錄</string>
+    <string name="tvHistory2">請點選條碼查看檢驗結果</string>
+    <string name="tvHistory3">（歷史記錄保留30筆，超過將自動刪除）</string>
+    <string name="tvSetting">提示設定</string>
+    <string name="switch1">震動提示</string>
+    <string name="switch2">聲音提示</string>
+    <string name="btnBackscan">返回掃描</string>
 </resources>

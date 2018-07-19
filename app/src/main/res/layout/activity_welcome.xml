@@ -18,6 +18,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@mipmap/logo2"
-        android:contentDescription="@string/logo" />
+        android:contentDescription="@string/image" />
 
 </android.support.constraint.ConstraintLayout>
