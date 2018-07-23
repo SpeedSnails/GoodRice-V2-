@@ -41,6 +41,9 @@
     <string name="btn0">0</string>
     <string name="btnClear">清除</string>
     <string name="btnBack">←</string>
+    <string name="showVideos">米食小教室</string>
+    <string name="tvVideo">影片名稱</string>
+    <string name="back">返回上一頁</string>
 
 
 </resources>

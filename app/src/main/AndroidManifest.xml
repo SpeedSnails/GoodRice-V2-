@@ -21,23 +21,26 @@
         </activity>
         <activity
             android:name=".MainActivity"
+            android:configChanges="orientation|keyboardHidden"
             android:label="呷好米(5.0)"
             android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name=".HistoryActivity"
             android:configChanges="orientation|keyboardHidden"
-            android:windowSoftInputMode="stateAlwaysHidden">
-        </activity>
-        <activity android:name=".HistoryActivity"
             android:label="呷好米(5.0)"
             android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name=".KeyActivity"
             android:configChanges="orientation|keyboardHidden"
-            android:windowSoftInputMode="stateAlwaysHidden">
-        </activity>
-        <activity android:name=".KeyActivity"
             android:label="呷好米(5.0)"
             android:screenOrientation="portrait"
-            android:configChanges="orientation|keyboardHidden"
-            android:windowSoftInputMode="stateAlwaysHidden">
-        </activity>
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".SettingActivity" />
+        <activity android:name=".ResultActivity" />
+        <activity android:name=".ClassroomActivity" />
+        <activity android:name=".VideoActivity"></activity>
     </application>
 
 </manifest>
