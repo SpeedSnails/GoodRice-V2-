@@ -20,7 +20,7 @@ public class WelcomeActivity extends AppCompatActivity implements Animation.Anim
         context = this;
 
         //取消ActionBar
-        //getSupportActionBar().hide();
+        getSupportActionBar().hide();
         //取消狀態欄
         this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
