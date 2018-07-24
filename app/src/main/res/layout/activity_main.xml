@@ -26,12 +26,12 @@
         android:layout_marginTop="16dp"
         android:text="@string/btnKey"
         android:textSize="18sp"
-        app:layout_constraintEnd_toStartOf="@+id/backHistory"
+        app:layout_constraintEnd_toStartOf="@+id/btnHistory"
         app:layout_constraintStart_toEndOf="@+id/btnScan"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/backHistory"
+        android:id="@+id/btnHistory"
         android:layout_width="120dp"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
